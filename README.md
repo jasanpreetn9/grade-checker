@@ -2,13 +2,13 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <div align="center">
-    <h3>Space Shooter</h3>
+    <h3>Grade Checker</h3>
   </div>
 
   <hr />
 
   <p align="center">
-In this Python Space Shooter app, you and a friend can engage in intense space battles. It tracks scores and declares a clear winner after each match, adding a competitive edge to your interstellar adventures. Get ready for a thrilling multiplayer space shooter experience!
+The Grade Checker app in Python empowers users to predict their final grades by inputting their desired scores on assignments, quizzes, and tests. It provides instant feedback, allowing users to visualize the impact of their performance on their overall grade. Additionally, the app conveniently saves assignment details, simplifying grade tracking and goal setting for a more organized academic journey.
   </p>
 </p>
 
@@ -33,8 +33,8 @@ This should install all the libras need for this project
 pip install requirements.txt -r
 ```
 
-Now run the the SpaceShooter.py
+Now run the the GradeChecker.py
 
 ```
-python SpaceShooter.py
+python GradeChecker.py
 ```
