@@ -1,0 +1,150 @@
+{
+    "classes": [
+        "Class #1",
+        "Class #2",
+        "Class #3",
+        "Class #4"
+    ],
+    "Class #1": {
+        "Percent": {
+            "Assignments": 60,
+            "Assessments": 40
+        },
+        "Cycle 1": {
+            "Grade": 86,
+            "Assignments": [
+                100,
+                90,
+                75,
+                85,
+                50
+            ],
+            "Assessments": [
+                100,
+                85,
+                100
+            ]
+        },
+        "Cycle 2": {
+            "Grade": 90,
+            "Assignments": [
+                90,
+                60,
+                80,
+                80
+            ],
+            "Assessments": [
+                90
+            ]
+        },
+        "Cycle 3": {
+            "Grade": 44,
+            "Assignments": [
+                80,
+                78,
+                99
+            ],
+            "Assessments": [
+                25
+            ]
+        },
+        "Cycle 4": {
+            "Grade": 85,
+            "Assignments": [
+                85,
+                95,
+                99
+            ],
+            "Assessments": [
+                75
+            ]
+        },
+        "Cycle 5": {
+            "Grade": 89,
+            "Assignments": [
+                87,
+                93
+            ],
+            "Assessments": [
+                88,
+                89
+            ]
+        },
+        "Cycle 6": {
+            "Grade": 85,
+            "Assignments": [
+                100,
+                90
+            ],
+            "Assessments": [
+                70,
+                70
+            ]
+        }
+    },
+    "Class #2": {
+        "Percent": {
+            "Assignments": 60,
+            "Assessments": 40
+        },
+        "Cycle 1": {
+            "Grade": 90,
+            "Assignments": [
+                100
+            ],
+            "Assessments": [
+                100,
+                50
+            ]
+        },
+        "Cycle 2": {
+            "Grade": 90,
+            "Assignments": [
+                90
+            ],
+            "Assessments": [
+                90
+            ]
+        },
+        "Cycle 3": {
+            "Grade": 80,
+            "Assignments": [
+                80
+            ],
+            "Assessments": [
+                80
+            ]
+        },
+        "Cycle 4": {
+            "Grade": 92,
+            "Assignments": [
+                100
+            ],
+            "Assessments": [
+                85
+            ]
+        },
+        "Cycle 5": {
+            "Grade": 0,
+            "Assignments": [
+                100,
+                100,
+                98
+            ],
+            "Assessments": [
+                98,
+                75,
+                100
+            ]
+        },
+        "Cycle 6": {
+            "Grade": 0,
+            "Assignments": [
+                38,
+                95,
+                50
+            ],
+            "Assessments": []
+        }
+    }
+}
