@@ -13,7 +13,7 @@ The Grade Checker app in Python empowers users to predict their final grades by 
 </p>
 
 <!-- PREVIEW IMAGE -->
-<img class="preview" src="https://github.com/jasanpreetn9/grade-checker/blob/main/Preview.png?raw=true">
+<img class="preview" src="https://github.com/jasanpreetn9/grade-checker/blob/main/static/Preview.png?raw=true">
 
 <hr/>
 
